@@ -1,4 +1,4 @@
-# Computational physics
+# Computational Physics
 ## 赵宇飞
 
 
