@@ -1,8 +1,8 @@
 # Computational Physics
-## 赵宇飞
+## Zhao YuFei
 
 
 ## Homework_1
-- 安装双系统Ubuntu16.04LTS+Windows8
-- 安装python 2.7运行环境conda
-- 注册github账户，并且关注[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
+- Install Ubuntu16.04LTS  
+- Install anaconda
+- Sign up a new account in github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
