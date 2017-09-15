@@ -1,6 +1,7 @@
 # Computational Physics
-## 赵宇飞（2015301020041）
-
+__15级基地班__       
+__赵宇飞__       
+__2015301020041__  
 
 ## Homework_1
 - 安装Ubuntu16.04LTS
