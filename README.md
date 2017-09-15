@@ -5,7 +5,7 @@ __2015301020041__
 
 ## Homework
 - Task 1
-  + Install Ubuntu16.04LTS and environment for python
+  + Install Ubuntu16.04LTS and environments for python
   + Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 
 - Task 2
