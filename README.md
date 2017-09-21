@@ -4,7 +4,7 @@ __赵宇飞__
 __2015301020041__  
 
 ## Homework
-- [*] Exercise_1
+- Exercise_1
   + Install Ubuntu16.04LTS and environments for python
   + Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 
