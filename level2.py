@@ -2,7 +2,7 @@ import time
 import os
 #Module Above
 
-i=os.system('cls')# linux下用clean
+i=os.system('cls')# linux use 'clean'
 time.sleep(0.4)
 print("#####  #    #    #####")
 print("   #    #  #     #"   )
