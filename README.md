@@ -8,6 +8,6 @@ __2015301020041__
    - Install Ubuntu16.04LTS and environments for python 2.7
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 - [x] [Exerscis_02]
-   - [spell your name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/homework_2.py)
-   - [move your name]()
+   - [spell your name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/level1.py)
+   - [move your name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/level2.py)
 
