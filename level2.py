@@ -1,6 +1,8 @@
 import time
 import os
-i=os.system('cls')
+#Module Above
+
+i=os.system('cls')# linux下用clean
 time.sleep(0.4)
 print("#####  #    #    #####")
 print("   #    #  #     #"   )
