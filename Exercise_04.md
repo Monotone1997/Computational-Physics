@@ -3,11 +3,8 @@
  Consider again a decay problem with two types of nuclei of type A into ones of type B, while nuclei of type B, while nuclei of type
 B decay into ones of type A. Strictly speaking, this is not a "decay" process,since it is possible for the type B nuclei to turn back
 into type A nuclei. A better analogy would be a resonance in which a system can tunnel or move back and forth between two states A and
-B which have equal energies. The corresponding rate equations are (1.12)
-
-
-![Photo](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/1.12.jpg)
-
+B which have equal energies. The corresponding rate equations are (1.12)  
+![Photo](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/1.12.jpg)  
 
 where for simplicity we have assumed that the two types of decay are characterized by the same time constant,τ. Solve this system of 
 equatiions for the numbers of nuclei, NA=100, NB=0, etc., and take τ=1s. Show that your numercial results are consistent with the idea
