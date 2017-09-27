@@ -9,7 +9,7 @@ __2015301020041__
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 - [x] [Exerscis_02:Print name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
 - [x] [Exerscis_03:All levels](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
-- [ ] [Exercise_04:Chapter 1 Problem 1.5:The decay of two kinds of particles]
+- [x] Exercise_04:Chapter 1 Problem 1.5:The decay of two kinds of particles [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_04/read.md) [作业部落](https://www.zybuluo.com/Monotone1997/note/881205)
 - [ ] [Exercise_05:Chapter 1 Problem 1.6:Population growth]
 - [ ] [Exercise_06:Chapter 2 Problem 2.6 & 2.10:The cannon]
 - [ ] [Exercise_07:Chapter 2 Problem 2.19:The spin of baseball and Visual motion of baseball]
