@@ -17,7 +17,8 @@ And we know the Taylor expansion for:<br/>
 Ignore the higher powers terms: <br/>
  ![](http://latex.codecogs.com/gif.latex?N%28%5CDelta%20t%29%5Capprox%20N%280%29&plus;%5Cfrac%7BdN%7D%7Bdt%7D%5Ccdot%5CDelta%20t) <br/>
 
-So we put dNA and dNB in it:<br/>
+So we put dNA and dNB in it:<br/>  
+
 ![](http://latex.codecogs.com/gif.latex?N_A%28t&plus;%5CDelta%20t%29%3DN_A%28t%29&plus;%5Cfrac%7BN_B-N_A%7D%7B%5Ctau%7D%5Ccdot%20%5CDelta%20t) <br/>
 
 ![](http://latex.codecogs.com/gif.latex?N_B%28t&plus;%5CDelta%20t%29%3DN_B%28t%29&plus;%5Cfrac%7BN_A-N_B%7D%7B%5Ctau%7D%5Ccdot%20%5CDelta%20t) <br/>
