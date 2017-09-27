@@ -66,4 +66,4 @@ Number fo Nuclei A is 100
 Number of Nuclei B is 0
 Time constant is 1s
 Steps is 0.004
-![result]https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_04/1.jpg
+![result](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_04/1.jpg)
