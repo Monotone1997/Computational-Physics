@@ -10,3 +10,5 @@ where for simplicity we have assumed that the two types of decay are characteriz
 equatiions for the numbers of nuclei, NA=100, NB=0, etc., and take τ=1s. Show that your numercial results are consistent with the idea
 that the system reaches a steady state in which NA and NB are constant. In such a steady state, the time derivatives dNA/dt and dNB/dt
 should vanish.
+## A
+### A
