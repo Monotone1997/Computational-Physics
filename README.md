@@ -3,7 +3,7 @@ __2015级基地班__
 __赵宇飞__       
 __2015301020041__  
 
-每次作业均以`[作业部落](https://www.zybuluo.com)`和`github`的形式共同发布，考虑到对数学公式的支持程度，请以`[作业部落](https://www.zybuluo.com)`为主！
+每次作业均以`作业部落`和`github`的形式共同发布，考虑到对数学公式的支持程度，请以`作业部落`为主！
 ## Homework
 - [x] Exercise_01
    - Install Ubuntu16.04LTS and environments for python 2.7
