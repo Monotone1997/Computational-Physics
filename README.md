@@ -11,8 +11,7 @@ __2015301020041__
 - [x] [Exerscis_02:Print name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
 - [x] [Exerscis_03:All levels](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
 - [x] Exercise_04:Chapter 1 Problem 1.5:The decay of two kinds of particles [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_04/read.md) [作业部落](https://www.zybuluo.com/Monotone1997/note/881205)
-- [ ] [Exercise_05:Chapter 1 Problem 1.6:Population growth]
-- [ ] [Exercise_06:Chapter 2 Problem 2.9 & 2.10:The cannon]
+- [ ] Exercise_06:Chapter 2 Problem 2.9:The cannon [作业部落]（https://www.zybuluo.com/Monotone1997/note/911335）
 - [ ] [Exercise_07:Chapter 2 Problem 2.19:The spin of baseball and Visual motion of baseball]
 - [ ] [Exercise_07:Chapter 3 Problem 3.4:Non-linear oscillator]
 - [ ] [Exercise_08:Chapter 3 Problem 3.16:Strange attractor]
