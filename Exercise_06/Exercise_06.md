@@ -24,6 +24,6 @@ The ball was thrown with an intial velocity of 70mph in the x direction and was 
 The green and red curve shows the trajectory of backspin and no spin, and the blue curve shows that of a 95-mph fastball for comparison.
 
 
-[Codes]()
+[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_06/spin.py)
 
-![picture result]()
+![picture result](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_06/backspin.jpg)
