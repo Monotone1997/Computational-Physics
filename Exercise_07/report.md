@@ -17,7 +17,8 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 ## Codes
 ### step 1
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/t%20theta.jpg)
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/t%20theta.jpg)  
+
 首先是对课本中给定的图像进行的模拟，参数和变量如下
 q=1/2, l=g=9.8, Omega=2/3, dt=0.04, theta(0)=0.2, w(0)=0
 ```python
