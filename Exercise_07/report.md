@@ -52,18 +52,20 @@ xlim(-3.3,3.3)
 # plot(t,theta) xlim(0,60)
 show()
 ```
-运行的结果变化情况如图：
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/gif1.gif)
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/gif2.gif)
+运行的结果变化情况如图：  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/gif2.gif)  
 
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/gif1.gif)  
 
 ### step 2
 接下来考虑两个相同的摆，改变其中一个的耗散因子q，计算出Delta theta随时间变化的曲线  
-[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/pend.py)
+[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/pend.py)  
 
-当FD=1.2时，Delta theta在t=[0，80]的范围内呈指数增加，经数据拟合分析知，lambda=0.3272
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/delta%20theta.jpg)
-当FD=0.8时，Delta theta保持稳定波动.
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/delta%20theta%202.jpg)
+当FD=1.2时，Delta theta在t=[0，80]的范围内呈指数增加，经数据拟合分析知，lambda=0.3272  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/delta%20theta.jpg)  
+
+当FD=0.8时，Delta theta保持稳定波动.  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/delta%20theta%202.jpg)  
+
 当FD=0.5时，Delta theta变化可省略不计，可以说两个摆保持同步运动.
 
