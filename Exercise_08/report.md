@@ -17,6 +17,6 @@ Lorenz在研究Rayleigh-Benard问题时，将流体力学基本方程组Navier-S
 
 ### Step2
 接下来考察在相空间中混沌洛伦兹模型z与x的关系。为此我们在x-z平面作图。
-[Codes]()
-![pic2]()
+[Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_08/py2.py)  
+![pic2](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/QQ%E6%88%AA%E5%9B%BE20171103162546.jpg)
 
