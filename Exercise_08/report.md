@@ -23,5 +23,7 @@ Lorenz在研究Rayleigh-Benard问题时，将流体力学基本方程组Navier-S
 
 ### Step3
 Phase Space Plot Z Versus x When y=0:   
-[Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_08/py3.py)
+[Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_08/py3.py)  
 ![pic3](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/QQ%E6%88%AA%E5%9B%BE20171103163247.jpg)
+
+![pic](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/Lorenz_Attractor.gif)
