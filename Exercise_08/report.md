@@ -7,6 +7,7 @@ Lorenz在研究Rayleigh-Benard问题时，将流体力学基本方程组Navier-S
 <img src="http://latex.codecogs.com/gif.latex?\frac{dy}{dt}=-xz+rx-y" alt="" title="" /> <br/>
 <img src="http://latex.codecogs.com/gif.latex?\frac{dz}{dt}=xy-bz" alt="" title="" /> <br/>
 这个方程组被称为Lorenz方程组，或Lorenz模型。其中x,y,z为变量，其余为常数。
+
 ## Codes
 ### Step1
 首先考察Lorenz模型的行为。令sigma=10，b=8/3，改变r的大小，观察z随时间的变化情况（x与y将呈现相似的行为）。
@@ -16,7 +17,7 @@ Lorenz在研究Rayleigh-Benard问题时，将流体力学基本方程组Navier-S
 当r=25时，图像最终变为混沌状态。
 
 ### Step2
-接下来考察在相空间中混沌洛伦兹模型z与x的关系。为此我们在x-z平面作图。
+接下来考察在相空间中混沌洛伦兹模型z与x的关系。为此我们在x-z平面作图。  
 [Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_08/py2.py)  
 ![pic2](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/QQ%E6%88%AA%E5%9B%BE20171103162546.jpg)
 
