@@ -38,4 +38,5 @@ self.vx[i+1]=verticalx+parallelx
 self.vy[i+1]=verticaly+parallely
 ```
 [Codes1](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_09/billiard.py)  
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/QQ%E6%88%AA%E5%9B%BE20171117215815.jpg)
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/QQ%E6%88%AA%E5%9B%BE20171117215815.jpg)  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/3771733-7f180a30aacecd59.png)
