@@ -8,12 +8,27 @@ Study the behavior for other types of tables. One interesting possibility is a s
 ### 桌球模型
 Consider a problem of a ball moving without friction on a perfect billiard table.Between collisions the velocity is constant so we have  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/a.png)  
+  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/b.png)  
 and  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/c.png)  
+  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/d.png)  
 Imagine the rebound on the edge of the ball is perfect  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/2.jpg)
 
 ## Codes
 ### Step1
+当球碰到边缘时，我们将这样处理他的碰壁和反弹：
+```python
+cos=xtry/(xtry**2+ytry**2)**0.5
+sin=ytry/(xtry**2+ytry**2)**0.5
+verticalx=-(self.vx[i]*cos+self.vy[i]*sin)*cos
+verticaly=-(self.vx[i]*cos+self.vy[i]*sin)*sin
+#parallelx=self.vx*sin**2-sin*cos*self.vy
+#parallely=self.vy*cos**2-self.vx*cos*sin
+parallelx=self.vx[i]+verticalx
+parallely=self.vy[i]+verticaly
+self.vx[i+1]=verticalx+parallelx
+self.vy[i+1]=verticaly+parallely
+```
