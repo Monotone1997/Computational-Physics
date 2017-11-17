@@ -5,6 +5,7 @@ Study the behavior for other types of tables. One interesting possibility is a s
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/1.png)  
 
 ## Analysis
+### 桌球模型
 Consider a problem of a ball moving without friction on a perfect billiard table.Between collisions the velocity is constant so we have  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/a.png)  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/b.png)  
