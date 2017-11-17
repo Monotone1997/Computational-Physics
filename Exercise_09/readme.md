@@ -42,6 +42,6 @@ self.vy[i+1]=verticaly+parallely
 
 ### Step2
 考虑到在两半圆间增加宽为2α的矩形，并得到动画，代码如下  
-[Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_09/billiard%202.py)
+[Codes2](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_09/billiard%202.py)
   
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/3771733-e0640932aaf55960.png)
