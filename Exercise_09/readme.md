@@ -39,4 +39,9 @@ self.vy[i+1]=verticaly+parallely
 ```
 [Codes1](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_09/billiard.py)  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/QQ%E6%88%AA%E5%9B%BE20171117215815.jpg)  
-![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/3771733-7f180a30aacecd59.png)
+
+### Step2
+考虑到在两半圆间增加宽为2α的矩形，并得到动画，代码如下  
+[Codes](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/Exercise_09/billiard%202.py)
+  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/3771733-e0640932aaf55960.png)
