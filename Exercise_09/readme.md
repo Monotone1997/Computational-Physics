@@ -14,3 +14,6 @@ and
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/d.png)  
 Imagine the rebound on the edge of the ball is perfect  
 ![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/2.jpg)
+
+## Codes
+### Step1
