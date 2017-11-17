@@ -3,7 +3,9 @@ __2015级基地班__
 __赵宇飞__       
 __2015301020041__  
 
+## Notice
 每次作业均以[`作业部落`](https://www.zybuluo.com/)和`github`的形式共同发布!
+期中作业暂时没能全部完成，上传的是目前进度，会在之后补上的！
 ## Homework
 - [x] Exercise_01
    - Install Ubuntu16.04LTS and environments for python 2.7
@@ -16,6 +18,9 @@ __2015301020041__
 - [x] [Exercise_07:Chapter 3 Problem 3.14:Non-linear oscillator] [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/report.md) [作业部落](https://www.zybuluo.com/Monotone1997/note/930747)
 - [x] [Exercise_08:Chapter 3 Problem 3.26:Strange attractor] [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/report.md)
 - [x] [Exercise_09:Chapter 3 Problem 3.31:Billiard ball on diverse table] [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/readme.md)
+- [ ] [Midterm Task:Pygame]()
+
+
 - [ ] [Exercise_10:Chapter 4 Problem 4.11:The percession of Mercury]
 - [ ] [Exercise_11:Chapter 4 Problem 4.18:The Kirkwood Gap]
 - [ ] [Exercise_12:Chapter 5 Problem 5.7:The Jacobi method v.s. The SOR algorithm]
