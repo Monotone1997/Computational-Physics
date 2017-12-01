@@ -33,9 +33,7 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 ![](http://latex.codecogs.com/png.latex?%5Cfrac%7Bd%5E2%7D%7Bdt%20%5E2%7D%20(%5Cfrac%7B1%7D%7Br%7D)+%5Cfrac%7B1%7D%7Br%7D=-%5Cfrac%7B%5Cmu%20r%5E2%7D%7BL%5E2%7D%20F(r))  
 
 于是有  
-
 ![](http://latex.codecogs.com/png.latex?r=(%5Cfrac%7BL%5E2%7D%7B%5Cmu%20G%20M_s%20M_P%7D%20)%5Cfrac%7B1%7D%7B1-e%20cos%5Ctheta%20%7D)  
-
 开普勒定律告诉我们，对于一个含有太阳和行星的系统，并且遵循一个椭圆轨道，就可以预测椭圆轴的方位不会随时间而改变。现在让我们假设力法稍有偏离平方反比关系。具体说来，假设引力的形式满足：  
-
-![](http://latex.codecogs.com/png.latex?F_G=\frac{G%20M_S%20M_E}{r^\beta})
+![](http://latex.codecogs.com/png.latex?F_G=\frac{G%20M_S%20M_E}{r^\beta})  
+当![](http://latex.codecogs.com/png.latex?\beta)不等于2时，通过改变半径上的指数来模拟行星的运动。
