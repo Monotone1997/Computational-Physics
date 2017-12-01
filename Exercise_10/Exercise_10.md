@@ -24,7 +24,7 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 容易看出，行星在向心力的作用下以圆轨道运动  
 
 ![](http://upload-images.jianshu.io/upload_images/3771733-3ed067606e468e7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
-[Codes]()
+[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Mercury.py)
 
 考虑约化质量,在极坐标系下给出约化质量物体的轨道满足方程  
 
@@ -40,8 +40,8 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 
 ## Codes
 ### Step1-不同初速度的影响
-![]()  
-[Codes]()  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/QQ%E6%88%AA%E5%9B%BE20171201233455.jpg)  
+[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Mercury2.py)  
 当满足
 ![](http://latex.codecogs.com/png.latex?v=v_{0}=\sqrt{\frac{GM_S(1-e)}{a(1+e)}})
 时,轨道是封闭的
