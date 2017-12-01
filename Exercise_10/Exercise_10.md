@@ -37,3 +37,10 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 开普勒定律告诉我们，对于一个含有太阳和行星的系统，并且遵循一个椭圆轨道，就可以预测椭圆轴的方位不会随时间而改变。现在让我们假设力法稍有偏离平方反比关系。具体说来，假设引力的形式满足：  
 ![](http://latex.codecogs.com/png.latex?F_G=\frac{G%20M_S%20M_E}{r^\beta})  
 当![](http://latex.codecogs.com/png.latex?\beta)不等于2时，通过改变半径上的指数来模拟行星的运动。
+
+## Codes
+### Step1-不同初速度的影响
+![]()  
+[Codes]()  
+当满足![](http://latex.codecogs.com/png.latex?v=v_{0}=\sqrt{\frac{GM_S(1-e)}{a(1+e)}})
+时,轨道是封闭的
