@@ -47,3 +47,5 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 时,轨道是封闭的
 
 ### Step2-![](http://latex.codecogs.com/png.latex?\beta)的特性
+改变![](http://latex.codecogs.com/png.latex?\beta)的取值，得到的轨迹并不封闭  
+![](http://static.zybuluo.com/zy-0815/p0lkkvbaf8ul1574zzewvigq/11.png)
