@@ -48,4 +48,6 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 
 ### Step2-![](http://latex.codecogs.com/png.latex?\beta)的特性
 改变![](http://latex.codecogs.com/png.latex?\beta)的取值，得到的轨迹并不封闭  
-![](http://static.zybuluo.com/zy-0815/p0lkkvbaf8ul1574zzewvigq/11.png)
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/QQ%E6%88%AA%E5%9B%BE20171202000630.jpg)  
+[Codes]()  
+![](http://static.zybuluo.com/zy-0815/ltjetpz1ufmswzgfgvdpjdw7/12.png)
