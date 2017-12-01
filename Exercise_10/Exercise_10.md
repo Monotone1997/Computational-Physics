@@ -42,5 +42,6 @@ Calculate the precession of perihelion of Mercury, following the approach descri
 ### Step1-不同初速度的影响
 ![]()  
 [Codes]()  
-当满足![](http://latex.codecogs.com/png.latex?v=v_{0}=\sqrt{\frac{GM_S(1-e)}{a(1+e)}})
+当满足
+![](http://latex.codecogs.com/png.latex?v=v_{0}=\sqrt{\frac{GM_S(1-e)}{a(1+e)}})
 时,轨道是封闭的
