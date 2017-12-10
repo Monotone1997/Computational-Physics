@@ -9,3 +9,7 @@ Use the sysmmetry of the capacitor problem (Figure 5.6) to write a program that 
 ![](http://latex.codecogs.com/png.latex?V(i,j)=\frac{1}{4}[V(i+1,j)+V(i-1,j)+V(i,j+1)+V(i,i-1)])  
 在计算中，我们总是算完一个点再算另一个点，也就是逐点更新计算结果。该方法主要的改进是在计算某一点的电势时，使用之前的点已经更新（update）后的数据。  
 ![](https://camo.githubusercontent.com/a218b9c53723a1a7087404a875be86b3872dff31/687474703a2f2f692e696d6775722e636f6d2f684e73754259442e6a7067)  
+
+
+## Codes
+![]()
