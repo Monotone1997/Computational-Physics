@@ -52,7 +52,7 @@ def update_V(grid):
 return grid, delta_V
 ```
 在计算某一点的电势时，使用之前的点已经更新（update）后的数据。最终扩散得到全局电势。
-`
+```
 def Laplace_calculate(grid):
 
     epsilon = 10**(-5)*200**2
@@ -67,7 +67,7 @@ def Laplace_calculate(grid):
         N_iter += 1
 
 return grid_new
-`
+```
 
 本单元的习题与前几章已经能熟练使用的欧拉法有本质性不同，由于能力有限，本章在书写时较多的参考了吴雨桥学姐的代码。
 [Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/potential.py)  
