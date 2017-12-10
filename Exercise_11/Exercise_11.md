@@ -12,4 +12,7 @@ Use the sysmmetry of the capacitor problem (Figure 5.6) to write a program that 
 
 
 ## Codes
-![]()
+本单元的习题与前几章已经能熟练使用的欧拉法有本质性不同，由于能力有限，本章在书写时较多的参考了吴雨桥学姐的代码。
+[Codes](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/potential.py)  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/2.jpg)  
+![](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/1.jpg)
