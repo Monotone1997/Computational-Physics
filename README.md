@@ -21,9 +21,7 @@ __2015301020041__
 - [ ] Midterm Task:Pygame [github](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/pygame.py)
 
 
-- [ ] [Exercise_10:Chapter 4 Problem 4.11:The percession of Mercury]
-- [ ] [Exercise_11:Chapter 4 Problem 4.18:The Kirkwood Gap]
-- [ ] [Exercise_12:Chapter 5 Problem 5.7:The Jacobi method v.s. The SOR algorithm]
-- [ ] [Exercise_13:Chapter 6 Problem 6.15:The realistic string problem]    
+- [x] Exercise_10:Chapter 4 Problem 4.11:The percession of Mercury [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
+- [ ] Exercise_11:Chapter 5 Problem 5.3:Electric Potentials and Fields:Laplace's Equation
 - [ ] [Final Project:用轨道能量分析Kirkwood Gap的缝宽]
 
