@@ -22,6 +22,5 @@ __2015301020041__
 
 
 - [x] Exercise_10:Chapter 4 Problem 4.11:The percession of Mercury [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
-- [ ] Exercise_11:Chapter 5 Problem 5.3:Electric Potentials and Fields:Laplace's Equation
-- [ ] [Final Project:用轨道能量分析Kirkwood Gap的缝宽]
-
+- [x] Exercise_11:Chapter 5 Problem 5.3:Electric Potentials and Fields:Laplace's Equation [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/Exercise_11.md)
+- [ ] Final Project
