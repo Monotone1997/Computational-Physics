@@ -6,23 +6,23 @@ __2015301020041__
 ## A Brief Introduction 简介
 This repository is for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2017. All algrithms will be realized by Python. Homeworks and other stuff I learn from this course will be included. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. Besides, this is the first time I use github to upload my codes, giving advice and pointing out errors will be appreciated.
 
-## 教材
+## Textbooks 教材
 - **Computational Physics**, Nicholas J. Giordano & Hisao Nakanishi
 - [**How to think like a computer scientist**](http://www.greenteapress.com/thinkpython/), Allen B. Downey
 
-## 参考书
+## Reference books 参考书
 - **An Introduction to Computer Simulation Methods: Applications to Physical Systems**, Harvey Gould, Jan Tobochnik and Wolfgang Christian
 - **Numerical Recipes 3rd Edition: The Art of Scientific Computing**, William H. Press and Saul A. Teukolsky
 - [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
-## 工具
+## Tools 工具
 - [markdown](https://daringfireball.net/projects/markdown/)
 - [matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
 - [pygame](http://pygame.org/hifi.html)
 - [github](https://github.com/)
 
-## Homework
+## Homework 作业
 - [x] Exercise_01
    - Install Ubuntu16.04LTS and environments for python 2.7
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
