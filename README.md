@@ -40,3 +40,8 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [x] Exercise_10:Chapter 4 Problem 4.11: The percession of Mercury [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
 - [x] Exercise_11:Chapter 5 Problem 5.3: Electric Potentials and Fields:Laplace's Equation [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/Exercise_11.md)
 - [x] Final Project [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Python%E5%9C%A8%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8_wrapper.pdf)
+
+## GitHub不支持LaTex公式的一种解决办法
+- 公式中不含有空格时，可通过`![](http://latex.codecogs.com/gif.latex?\alpha_A+\beta)`来发布公式，将连接中的`\alpha_A+\beta`替换为想输入的公式即可。
+- 公式中含有空格时，可以在[codecogs](http://latex.codecogs.com/)先编辑好公式，然后右击公式，选择图象属性，复制其中“源文件”一栏中的url，在markdown文档中以图片格式发布。
+- [配合codecogs在vim里面插入公式的插件](https://github.com/Ron89/md_insert_equation.vim)
