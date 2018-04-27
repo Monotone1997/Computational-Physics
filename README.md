@@ -24,7 +24,8 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 
 ## Homework 作业
 - [x] Exercise_01
-   - Install Ubuntu16.04LTS and environments for python 2.7
+   - Install Ubuntu16.04LTS and environments for python 2.7  
+   Download Anaconda
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 - [x] [Exerscis_02:Print name](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
 - [x] [Exerscis_03:All levels](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
