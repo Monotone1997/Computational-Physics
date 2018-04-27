@@ -1,11 +1,10 @@
-# Computational Physics
+# Repository for Computational Physics
 __2015级基地班__       
 __赵宇飞__       
 __2015301020041__  
 
-## Notice
-每次作业均以[`作业部落`](https://www.zybuluo.com/)和`github`的形式共同发布!
-期中作业暂时没能全部完成，上传的是目前进度，会在之后补上的！
+## A Brief Introduction 简介
+This repository is for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2017. All algrithms will be realized by Python. Homeworks and other stuff I learn from this course will be included. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. Besides, this is the first time I use github to upload my codes, giving advice and pointing out errors will be appreciated.
 ## Homework
 - [x] Exercise_01
    - Install Ubuntu16.04LTS and environments for python 2.7
