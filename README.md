@@ -17,7 +17,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [x] Exercise_07:Chapter 3 Problem 3.14: Non-linear oscillator [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_07/report.md) [作业部落](https://www.zybuluo.com/Monotone1997/note/930747)
 - [x] Exercise_08:Chapter 3 Problem 3.26: Strange attractor [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_08/report.md)
 - [x] Exercise_09:Chapter 3 Problem 3.31: Billiard ball on diverse table [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_09/readme.md)
-- [ ] Midterm Task: Pygame(Not Finished) [github](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/pygame.py)
+- [ ] Midterm Task: Pygame (Not Finished) [github](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/pygame.py)
 
 
 - [x] Exercise_10:Chapter 4 Problem 4.11: The percession of Mercury [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
