@@ -1,5 +1,4 @@
-# Repository for Computational Physics
-__2015级基地班__       
+# Repository for Computational Physics    
 __ZhaoYuFei__       
 __2015301020041__  
 
