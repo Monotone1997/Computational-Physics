@@ -1,6 +1,6 @@
 # Repository for Computational Physics
 __2015级基地班__       
-__赵宇飞__       
+__ZhaoYuFei__       
 __2015301020041__  
 
 ## A Brief Introduction 简介
