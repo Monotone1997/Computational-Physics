@@ -17,11 +17,11 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 
 ## Tools 工具
 - [**Anaconda**](https://www.anaconda.com/download/)
-- [markdown](https://daringfireball.net/projects/markdown/)
-- [matplotlib](http://matplotlib.org/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
+- [Matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
-- [pygame](http://pygame.org/hifi.html)
-- [github](https://github.com/)
+- [Pygame](http://pygame.org/hifi.html)
+- [Github](https://github.com/)
 
 ## Homework 作业
 - [x] Exercise_01
