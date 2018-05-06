@@ -16,6 +16,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 ## Tools 工具
+- [**Anaconda**](https://www.anaconda.com/download/)
 - [markdown](https://daringfireball.net/projects/markdown/)
 - [matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
@@ -24,7 +25,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 
 ## Homework 作业
 - [x] Exercise_01
-   - Install Ubuntu16.04LTS and environments for python 2.7 [**Download Anaconda**](https://www.anaconda.com/download/)
+   - Install Ubuntu16.04LTS and environments for python 2.7  
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 - [x] Exerscis_02:Print name [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
 - [x] Exerscis_03:All levels [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_02/read.md)
