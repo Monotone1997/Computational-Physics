@@ -16,10 +16,11 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 
 ## Tools 工具
 - [**Anaconda**](https://www.anaconda.com/download/)
-- [Markdown](https://daringfireball.net/projects/markdown/)
-  - [Github](https://github.com/)
-  - [作业部落](https://www.zybuluo.com/mdeditor)
-  - [简书](https://www.jianshu.com/)
+- [**Markdown**](https://daringfireball.net/projects/markdown/)
+  - [`Github`](https://github.com/) 简洁明了，但不能显示latex公式
+  - [`stackedit`](https://stackedit.io/) 格式非常漂亮，但单向发布到github
+  - [`作业部落`](https://www.zybuluo.com/mdeditor) 不能与github关联，需要额外的图床
+  - [`简书`](https://www.jianshu.com/) 不能与github关联，需要额外的图床
 - [Matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
 - [Pygame](http://pygame.org/hifi.html)
