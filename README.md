@@ -46,6 +46,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - 公式中含有空格时，可以在[codecogs](http://latex.codecogs.com/)先编辑好公式，然后右击公式，选择图象属性，复制其中“源文件”一栏中的url，在markdown文档中以图片格式发布。
 - [配合codecogs在vim里面插入公式的插件](https://github.com/Ron89/md_insert_equation.vim)
 
-## Python 实战案例
-- [Python 实现火车票查询工具](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
+## 我的Python实战
+- [**Python 实现火车票查询工具**](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
+  
 ![](http://i1.bvimg.com/643282/949062d7aec8543e.jpg)
