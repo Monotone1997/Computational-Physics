@@ -41,7 +41,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [ ] ~~Midterm Task: Pygame (Not Finished)~~ [github](https://raw.githubusercontent.com/Monotone1997/computationalphysics_N2015301020041/master/pygame.py)
 - [x] Exercise_10: Chapter 4 Problem 4.11: **The percession of Mercury** [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
 - [x] Exercise_11: Chapter 5 Problem 5.3: **Electric Potentials and Fields:Laplace's Equation** [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/Exercise_11.md)
-- [x] **Final Project** [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Python%E5%9C%A8%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8_wrapper.pdf)
+- [x] **Final Project：Random Systems** [**github**](https://github.com/Monotone1997/Computational-Physics/blob/master/Random%20Systems.md)
 - [x] **Pygame：PythonShootGame** [github](https://github.com/Monotone1997/Computational-Physics/tree/master/PythonShootGame)
 
 ## GitHub不支持LaTex公式的一种解决办法
