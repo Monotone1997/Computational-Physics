@@ -11,11 +11,12 @@
 ![](http://i2.bvimg.com/643282/5881f4caae48ae37.png)  
 
 对于更普遍的二维情况，如分子的自由扩散，数目和位移的函数关系满足高斯分布。  
+![](http://latex.codecogs.com/png.latex?\rho(i,n+1)=\rho(i,n)+\frac%20{D%20\Delta%20t}{\left(\Delta%20x\right)^2}\left[\rho(i+1,n)+\rho(i-1,n)-2\rho(i,n)\right])  
 ![Markdown](http://i1.bvimg.com/643282/6e63fedb248cc14c.png)  
 随着时间的增大，密度曲线的峰值下降，范围增大，总面积保持不变。 
-![](http://i1.bvimg.com/643282/371381133507812f.png)
-![Markdown](http://i1.bvimg.com/643282/2ffc32b49969fa70.png)  
-![Markdown](http://i1.bvimg.com/643282/c3c64b767ac6b559.png)  
+![Markdown](http://i1.bvimg.com/643282/b86f2be027083dd6.png)  
+![Markdown](http://i1.bvimg.com/643282/63a73d03d955152d.png)  
+![Markdown](http://i1.bvimg.com/643282/5f193ddc5995a41e.png)
 ### Codes 代码实现
 相比于其他语言，使用python完成随机数的生成十分简单，仅需要两行代码。当然也可以通过种子生成质量更高的随机数。
 ```
@@ -23,5 +24,3 @@ import random
 r=random.uniform(0,1)
 ```
 [Codes]()  
-
-![]()
