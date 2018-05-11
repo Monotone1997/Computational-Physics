@@ -14,12 +14,16 @@
 对于更普遍的二维情况，如分子的自由扩散，数目和位移的函数关系满足高斯分布。  
 ![](http://latex.codecogs.com/png.latex?\rho(i,n+1)=\rho(i,n)+\frac%20{D%20\Delta%20t}{\left(\Delta%20x\right)^2}\left[\rho(i+1,n)+\rho(i-1,n)-2\rho(i,n)\right])  
 ![Markdown](http://i1.bvimg.com/643282/6e63fedb248cc14c.png)  
-随着时间的增大，密度曲线的峰值下降，范围增大，总面积保持不变。 
+
+**随着时间的增大，密度曲线的峰值下降，范围增大，总面积保持不变。**  
+
 ![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_4.png)  
 ![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_3.png)  
 ![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_5.png)  
 #### 二维扩散熵
-熵的统计定义：![](http://latex.codecogs.com/png.latex?S=%20-\sum_{i}^n%20P_i\ln%20{P_i})
+熵的统计定义：![](http://latex.codecogs.com/png.latex?S=%20-\sum_{i}^n%20P_i\ln%20{P_i})  
+![](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_6.png)  
+随着时间增大，熵的值增大，但是其增长速度降低。最终它会收敛到一个定值。
 ### Codes 代码实现
 相比于其他语言，使用python完成随机数的生成十分简单，仅需要两行代码。当然也可以通过种子生成质量更高的随机数。
 ```
@@ -33,3 +37,6 @@ for i in range(m):
 x2=x2/(m+1)
 ```
 [**All the Codes**](https://github.com/Monotone1997/Computational-Physics/tree/master/Final)  
+
+## Reference 参考文献
+Nicholas J. Giordano, Hisao Nakanishi, Computational Physics(Second Edition).
