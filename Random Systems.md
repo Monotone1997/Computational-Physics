@@ -15,8 +15,8 @@
 ![](http://latex.codecogs.com/png.latex?\rho(i,n+1)=\rho(i,n)+\frac%20{D%20\Delta%20t}{\left(\Delta%20x\right)^2}\left[\rho(i+1,n)+\rho(i-1,n)-2\rho(i,n)\right])  
 ![Markdown](http://i1.bvimg.com/643282/6e63fedb248cc14c.png)  
 随着时间的增大，密度曲线的峰值下降，范围增大，总面积保持不变。 
-![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_3.png)  
 ![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_4.png)  
+![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_3.png)  
 ![Markdown](https://raw.githubusercontent.com/Monotone1997/Computational-Physics/master/Final/Figure_5.png)  
 #### 二维扩散熵
 熵的统计定义：![](http://latex.codecogs.com/png.latex?S=%20-\sum_{i}^n%20P_i\ln%20{P_i})
@@ -26,4 +26,10 @@
 import random
 r=random.uniform(0,1)
 ```
-[Codes]()  
+由于是要求x^2的平均值，所以要再写一个循环每次输出平均值。
+```
+for i in range(m):
+    x2=x2+Random_walk()[1]
+x2=x2/(m+1)
+```
+[**All the Codes**](https://github.com/Monotone1997/Computational-Physics/tree/master/Final)  
