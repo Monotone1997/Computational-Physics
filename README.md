@@ -24,7 +24,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [Matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
 - [Pygame](http://pygame.org/hifi.html)
-
+- [**`Sublime Text`**](http://www.sublimetext.com/)
 
 ## Homework Lists 作业
 - [x] Exercise_01
