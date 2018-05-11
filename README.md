@@ -1,5 +1,5 @@
 # Repository for Computational Physics    
-__ZhaoYuFei__       
+__Zhao YuFei__       
 __2015301020041__  
 
 ## A Brief Introduction 简介
@@ -24,7 +24,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [Matplotlib](http://matplotlib.org/)
 - [VPython](http://vpython.org/)
 - [Pygame](http://pygame.org/hifi.html)
-- [**`Sublime Text`**](http://www.sublimetext.com/)
+- [**`Sublime Text3`**](http://www.sublimetext.com/) 轻量级编辑器
 
 ## Homework Lists 作业
 - [x] Exercise_01
