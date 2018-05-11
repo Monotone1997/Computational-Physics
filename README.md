@@ -3,7 +3,7 @@ __ZhaoYuFei__
 __2015301020041__  
 
 ## A Brief Introduction 简介
-This repository is for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2017. All algrithms will be realized by Python 2.7. Homeworks and other stuff I learn from this course will be included. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. In addition, this is the first time I use github to upload my codes, giving advice and pointing out errors will be appreciated.
+This repository is for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2017. All algrithms will be realized by Python. Homeworks and other stuff I learn from this course will be included. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. In addition, this is the first time I use github to upload my codes, giving advice and pointing out errors will be appreciated.
 
 ## Textbooks 教材
 - **Computational Physics**, Nicholas J. Giordano & Hisao Nakanishi
