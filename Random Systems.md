@@ -13,7 +13,7 @@
 对于更普遍的二维情况，如分子的自由扩散，数目和位移的函数关系满足高斯分布。  
 ![Markdown](http://i1.bvimg.com/643282/6e63fedb248cc14c.png)  
 随着时间的增大，密度曲线的峰值下降，范围增大，总面积保持不变。 
-![Markdown](http://i1.bvimg.com/643282/371381133507812f.png)  
+![](http://i1.bvimg.com/643282/371381133507812f.png)
 ![Markdown](http://i1.bvimg.com/643282/2ffc32b49969fa70.png)  
 ![Markdown](http://i1.bvimg.com/643282/c3c64b767ac6b559.png)  
 ### Codes 代码实现
