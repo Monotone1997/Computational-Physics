@@ -2,6 +2,7 @@
 __Zhao YuFei__       
 __2015301020041__  
 
+[![GitHub license](https://img.shields.io/badge/python-3.5-green.svg)](https://www.python.org/downloads/release/python-351/)
 ## A Brief Introduction 简介
 This repository is for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2017. All algrithms will be realized by Python. Homeworks and other stuff I learn from this course will be included. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. In addition, this is the first time I use github to upload my codes, giving advice and pointing out errors will be appreciated.
 
@@ -48,7 +49,7 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - 公式中含有空格时，可以在[codecogs](http://latex.codecogs.com/)先编辑好公式，然后右击公式，选择图象属性，复制其中“源文件”一栏中的url，在markdown文档中以图片格式发布。
 - [配合codecogs在vim里面插入公式的插件](https://github.com/Ron89/md_insert_equation.vim)
 
-## 我的Python实战
-- [**Python 实现火车票查询工具**](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
-  
-![](http://i1.bvimg.com/643282/949062d7aec8543e.jpg)
+## 我的Python实战项目
+- [**火车票查询工具**](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
+![](http://i1.bvimg.com/643282/949062d7aec8543e.jpg)  
+- 查全国七天天气
