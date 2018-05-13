@@ -52,4 +52,4 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 ## 我的Python实战项目
 - [**火车票查询工具**](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
 ![](http://i1.bvimg.com/643282/949062d7aec8543e.jpg)  
-- 查全国七天天气
+- [**查全国七天天气**](https://github.com/Monotone1997/my-python-projects/tree/master/weather)
