@@ -43,7 +43,9 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [x] Exercise_10: Chapter 4 Problem 4.11: **The percession of Mercury** [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_10/Exercise_10.md)
 - [x] Exercise_11: Chapter 5 Problem 5.3: **Electric Potentials and Fields:Laplace's Equation** [github](https://github.com/Monotone1997/computationalphysics_N2015301020041/blob/master/Exercise_11/Exercise_11.md)
 - [x] **Pygame：PythonShootGame** [github](https://github.com/Monotone1997/Computational-Physics/tree/master/PythonShootGame)
-- [x] **Final Project：Random Systems** [**github**](https://github.com/Monotone1997/Computational-Physics/blob/master/Random%20Systems.md)
+- [x] **Final Project：Random Systems** [**github**](https://github.com/Monotone1997/Computational-Physics/blob/master/Random%20Systems.md)  
+![Markdown](http://i2.bvimg.com/643282/db79aa6e57f35dbe.gif)  
+![Markdown](http://i2.bvimg.com/643282/63a73d03d955152dt.jpg) ![Markdown](http://i2.bvimg.com/643282/ca9943c052db1bd3t.jpg)
 ## GitHub不支持LaTex公式的一种解决办法
 - 公式中不含有空格时，可通过`![](http://latex.codecogs.com/gif.latex?\alpha_A+\beta)`来发布公式，将连接中的`\alpha_A+\beta`替换为想输入的公式即可。
 - 公式中含有空格时，可以在[codecogs](http://latex.codecogs.com/)先编辑好公式，然后右击公式，选择图象属性，复制其中“源文件”一栏中的url，在markdown文档中以图片格式发布。
