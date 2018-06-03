@@ -51,8 +51,8 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 
 ## 我的Python实战项目
 - [火车票查询工具](https://github.com/Monotone1997/my-python-projects/tree/master/train%20tickets)  
-![](http://i2.bvimg.com/643282/a3fc8fca68365160.jpg)  
-- [查全国七天天气](https://github.com/Monotone1997/my-python-projects/tree/master/weather)
-![](http://i2.bvimg.com/643282/2a5bf5d8584dbe4f.jpg)
+![Markdown](http://i2.bvimg.com/643282/a3fc8fca68365160t.jpg)  
+- [查全国七天天气](https://github.com/Monotone1997/my-python-projects/tree/master/weather)  
+![](http://i2.bvimg.com/643282/2a5bf5d8584dbe4f.jpg)  
 - 学习Python Machine Learning book(Not Finished)
 - Pt-AutoSeed(Not Finished)
