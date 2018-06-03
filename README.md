@@ -28,7 +28,6 @@ This repository is for the Computational Physics course by Prof. Cai from Wuhan 
 - [**`Sublime Text3`**](http://www.sublimetext.com/) 轻量级编辑器
 
 ## Homework Lists 作业
-![Markdown](http://i2.bvimg.com/643282/63a73d03d955152dt.jpg) ![Markdown](http://i2.bvimg.com/643282/ca9943c052db1bd3t.jpg)  
 - [x] Exercise_01
    - Install Ubuntu16.04LTS and environments for python 2.7  
    - Register a new account in the github and follow[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
