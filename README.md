@@ -1,6 +1,5 @@
 # Repository for Computational Physics    
 __Zhao YuFei__       
-__2015301020041__  
 
 [![GitHub license](https://img.shields.io/badge/python-3.5-green.svg)](https://www.python.org/downloads/release/python-351/)
 ## A Brief Introduction 简介
